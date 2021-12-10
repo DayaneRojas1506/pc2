@@ -43,7 +43,7 @@ Deben de subir el link de dicho repositorio a la plataforma del curso en la tare
 
 ### Autocalificación
 
-Debe subir a la plataforma del curso en la tarea con el nombre "PC2 - Autocalificacion" una [autocalificación del grupo](./autocalification.md).
+Debe subir a la plataforma del curso en la tarea con el nombre "PC2 - Autocalificación" una [autocalificación del grupo](./autocalification.md).
 
 **Todos los integrantes del grupo deben de subir la autocalificación. Caso contrario, dicho integrante no recibirá nota alguna.**
 
